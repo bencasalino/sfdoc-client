@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Header() {
   return <header>
-      <a href="github.com/bencasalino">
+      <a href="https://github.com/bencasalino">
         <img className="Github animated slideInDown" src="/assets/github.png" alt="Github Logo" />
       </a>
       <img className="LogoImage animated slideInLeft" src="/assets/field.png" alt="Logo" />
